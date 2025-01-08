@@ -169,3 +169,17 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+ignorar
+ignorar/
+imagens
+imagens/
+csvs
+csvs/
+*.csv
+keys.py
+*.json
+instaboot.py
+teste.py
+config/
+config
